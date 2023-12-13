@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RoutingParactice/static/css/main.e6c13ad2.css",
+    "main.js": "/RoutingParactice/static/js/main.c33aa151.js",
+    "static/js/787.60e16552.chunk.js": "/RoutingParactice/static/js/787.60e16552.chunk.js",
+    "index.html": "/RoutingParactice/index.html",
+    "main.e6c13ad2.css.map": "/RoutingParactice/static/css/main.e6c13ad2.css.map",
+    "main.c33aa151.js.map": "/RoutingParactice/static/js/main.c33aa151.js.map",
+    "787.60e16552.chunk.js.map": "/RoutingParactice/static/js/787.60e16552.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c33aa151.js"
+  ]
+}
